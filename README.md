@@ -1,4 +1,4 @@
-# IT-scCUT&Tag Data Processing Pipeline
+# IT-scC&T Data Processing Pipeline
 
 > ⚠️ This repository is under active development. Interfaces and file structures may still change before final release.
 
