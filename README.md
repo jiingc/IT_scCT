@@ -6,7 +6,7 @@ This repository contains a modular and reproducible pipeline for processing inde
 
 ## 📁 Repository Structure
 ```
-scCUTTag-pipeline/
+scCT-pipeline/
 ├── scripts/                # Shell-based preprocessing
 │   ├── 01_demultiplex.sh  # Cutadapt-based index and linker trimming
 │   ├── 02_alignment.sh    # Bowtie2 alignment
