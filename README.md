@@ -41,3 +41,6 @@ Please cite:
 
 For any questions or contributions, feel free to open an issue or pull request.
 
+## 📄 License
+This repository is released under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This repository contains original code for processing IT-scC&T-seq data. It makes use of external tools, including Cutadapt, Bowtie2, MACS2, ArchR and Seurat, which are licensed under their respective terms.
