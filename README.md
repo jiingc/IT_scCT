@@ -1,8 +1,6 @@
-# IT-scC&T Data Processing Pipeline
+# IT-scC&T-seq Data Processing Pipeline
 
-> ⚠️ This repository is under active development. Interfaces and file structures may still change before final release.
-
-This repository contains a modular and reproducible pipeline for processing indexed tagmentation-based single-cell CUT&Tag (IT-scCUT&Tag) data. The workflow supports multiple histone marks and replicates, and integrates Seurat + Signac for downstream single-cell analysis.
+This repository contains a modular and reproducible pipeline for processing indexed tagmentation-based single-cell CUT&Tag-sequencing (IT-scCUT&Tag-seq) data. The workflow supports multiple histone marks and replicates, and integrates ArchR, Seurat + Signac for downstream single-cell analysis.
 
 ## 📁 Repository Structure
 ```
